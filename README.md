@@ -1,2 +1,3 @@
 # get-pic.py
-Scraping pictures 
+Is a pyhton script to scrape pictures of a livestream/webcam
+---
